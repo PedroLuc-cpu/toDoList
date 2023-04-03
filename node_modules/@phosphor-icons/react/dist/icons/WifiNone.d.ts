@@ -1,0 +1,3 @@
+import { Icon } from "../lib";
+declare const WifiNone: Icon;
+export default WifiNone;

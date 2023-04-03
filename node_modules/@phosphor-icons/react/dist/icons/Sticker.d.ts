@@ -1,0 +1,3 @@
+import { Icon } from "../lib";
+declare const Sticker: Icon;
+export default Sticker;

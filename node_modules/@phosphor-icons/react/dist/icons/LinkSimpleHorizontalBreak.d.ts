@@ -1,0 +1,3 @@
+import { Icon } from "../lib";
+declare const LinkSimpleHorizontalBreak: Icon;
+export default LinkSimpleHorizontalBreak;

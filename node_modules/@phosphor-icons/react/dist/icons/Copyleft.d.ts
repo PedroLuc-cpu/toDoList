@@ -1,0 +1,3 @@
+import { Icon } from "../lib";
+declare const Copyleft: Icon;
+export default Copyleft;

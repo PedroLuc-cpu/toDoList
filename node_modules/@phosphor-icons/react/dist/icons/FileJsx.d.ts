@@ -1,0 +1,3 @@
+import { Icon } from "../lib";
+declare const FileJsx: Icon;
+export default FileJsx;

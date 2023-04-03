@@ -1,0 +1,3 @@
+import { Icon } from "../lib";
+declare const WaveSquare: Icon;
+export default WaveSquare;

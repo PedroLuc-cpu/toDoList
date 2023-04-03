@@ -1,0 +1,3 @@
+import { Icon } from "../lib";
+declare const MapPin: Icon;
+export default MapPin;

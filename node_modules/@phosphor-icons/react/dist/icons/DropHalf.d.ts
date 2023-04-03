@@ -1,0 +1,3 @@
+import { Icon } from "../lib";
+declare const DropHalf: Icon;
+export default DropHalf;

@@ -1,0 +1,3 @@
+import { Icon } from "../lib";
+declare const ShieldChevron: Icon;
+export default ShieldChevron;

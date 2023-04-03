@@ -1,0 +1,3 @@
+import { Icon } from "../lib";
+declare const MaskSad: Icon;
+export default MaskSad;

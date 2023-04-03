@@ -1,0 +1,3 @@
+import { Icon } from "../lib";
+declare const Article: Icon;
+export default Article;

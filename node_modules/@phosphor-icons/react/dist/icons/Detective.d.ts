@@ -1,0 +1,3 @@
+import { Icon } from "../lib";
+declare const Detective: Icon;
+export default Detective;

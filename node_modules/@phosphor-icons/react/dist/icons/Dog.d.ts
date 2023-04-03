@@ -1,0 +1,3 @@
+import { Icon } from "../lib";
+declare const Dog: Icon;
+export default Dog;

@@ -1,0 +1,3 @@
+import { Icon } from "../lib";
+declare const MediumLogo: Icon;
+export default MediumLogo;

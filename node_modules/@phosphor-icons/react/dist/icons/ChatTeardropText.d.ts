@@ -1,0 +1,3 @@
+import { Icon } from "../lib";
+declare const ChatTeardropText: Icon;
+export default ChatTeardropText;

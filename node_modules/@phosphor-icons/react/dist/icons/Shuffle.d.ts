@@ -1,0 +1,3 @@
+import { Icon } from "../lib";
+declare const Shuffle: Icon;
+export default Shuffle;

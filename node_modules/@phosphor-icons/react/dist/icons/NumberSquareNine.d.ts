@@ -1,0 +1,3 @@
+import { Icon } from "../lib";
+declare const NumberSquareNine: Icon;
+export default NumberSquareNine;

@@ -1,0 +1,3 @@
+import { Icon } from "../lib";
+declare const SunHorizon: Icon;
+export default SunHorizon;

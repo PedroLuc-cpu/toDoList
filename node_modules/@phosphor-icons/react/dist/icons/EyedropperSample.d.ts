@@ -1,0 +1,3 @@
+import { Icon } from "../lib";
+declare const EyedropperSample: Icon;
+export default EyedropperSample;

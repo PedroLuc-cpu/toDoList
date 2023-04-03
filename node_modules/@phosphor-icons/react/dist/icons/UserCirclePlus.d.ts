@@ -1,0 +1,3 @@
+import { Icon } from "../lib";
+declare const UserCirclePlus: Icon;
+export default UserCirclePlus;

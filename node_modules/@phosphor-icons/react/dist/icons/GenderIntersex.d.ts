@@ -1,0 +1,3 @@
+import { Icon } from "../lib";
+declare const GenderIntersex: Icon;
+export default GenderIntersex;

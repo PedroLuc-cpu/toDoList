@@ -1,0 +1,3 @@
+import { Icon } from "../lib";
+declare const CompassTool: Icon;
+export default CompassTool;

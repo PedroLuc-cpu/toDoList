@@ -1,0 +1,3 @@
+import { Icon } from "../lib";
+declare const QrCode: Icon;
+export default QrCode;

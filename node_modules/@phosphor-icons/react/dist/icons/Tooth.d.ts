@@ -1,0 +1,3 @@
+import { Icon } from "../lib";
+declare const Tooth: Icon;
+export default Tooth;

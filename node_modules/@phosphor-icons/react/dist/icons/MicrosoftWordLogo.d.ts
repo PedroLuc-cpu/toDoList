@@ -1,0 +1,3 @@
+import { Icon } from "../lib";
+declare const MicrosoftWordLogo: Icon;
+export default MicrosoftWordLogo;

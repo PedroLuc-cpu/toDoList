@@ -1,0 +1,3 @@
+import { Icon } from "../lib";
+declare const MagnetStraight: Icon;
+export default MagnetStraight;

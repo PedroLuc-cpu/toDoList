@@ -1,0 +1,45 @@
+var r = Object.defineProperty, v = Object.defineProperties;
+var M = Object.getOwnPropertyDescriptors;
+var m = Object.getOwnPropertySymbols;
+var c = Object.prototype.hasOwnProperty, o = Object.prototype.propertyIsEnumerable;
+var l = (a, H, t) => H in a ? r(a, H, { enumerable: !0, configurable: !0, writable: !0, value: t }) : a[H] = t, Z = (a, H) => {
+  for (var t in H || (H = {}))
+    c.call(H, t) && l(a, t, H[t]);
+  if (m)
+    for (var t of m(H))
+      o.call(H, t) && l(a, t, H[t]);
+  return a;
+}, n = (a, H) => v(a, M(H));
+import e, { forwardRef as E } from "react";
+import p from "../lib/IconBase.es.js";
+const d = /* @__PURE__ */ new Map([
+  [
+    "bold",
+    /* @__PURE__ */ e.createElement(e.Fragment, null, /* @__PURE__ */ e.createElement("path", { d: "M224,44H32A12,12,0,0,0,20,56V192a20,20,0,0,0,20,20H216a20,20,0,0,0,20-20V56A12,12,0,0,0,224,44ZM44,116H76v24H44Zm56,0H212v24H100ZM212,68V92H44V68ZM44,164H76v24H44Zm56,24V164H212v24Z" }))
+  ],
+  [
+    "duotone",
+    /* @__PURE__ */ e.createElement(e.Fragment, null, /* @__PURE__ */ e.createElement("path", { d: "M88,104v96H32V104Z", opacity: "0.2" }), /* @__PURE__ */ e.createElement("path", { d: "M224,48H32a8,8,0,0,0-8,8V192a16,16,0,0,0,16,16H216a16,16,0,0,0,16-16V56A8,8,0,0,0,224,48ZM40,112H80v32H40Zm56,0H216v32H96ZM216,64V96H40V64ZM40,160H80v32H40Zm176,32H96V160H216v32Z" }))
+  ],
+  [
+    "fill",
+    /* @__PURE__ */ e.createElement(e.Fragment, null, /* @__PURE__ */ e.createElement("path", { d: "M224,48H32a8,8,0,0,0-8,8V192a16,16,0,0,0,16,16H216a16,16,0,0,0,16-16V56A8,8,0,0,0,224,48ZM40,112H80v32H40Zm56,0H216v32H96ZM40,160H80v32H40Zm176,32H96V160H216v32Z" }))
+  ],
+  [
+    "light",
+    /* @__PURE__ */ e.createElement(e.Fragment, null, /* @__PURE__ */ e.createElement("path", { d: "M224,50H32a6,6,0,0,0-6,6V192a14,14,0,0,0,14,14H216a14,14,0,0,0,14-14V56A6,6,0,0,0,224,50ZM38,110H82v36H38Zm56,0H218v36H94ZM218,62V98H38V62ZM38,192V158H82v36H40A2,2,0,0,1,38,192Zm178,2H94V158H218v34A2,2,0,0,1,216,194Z" }))
+  ],
+  [
+    "regular",
+    /* @__PURE__ */ e.createElement(e.Fragment, null, /* @__PURE__ */ e.createElement("path", { d: "M224,48H32a8,8,0,0,0-8,8V192a16,16,0,0,0,16,16H216a16,16,0,0,0,16-16V56A8,8,0,0,0,224,48ZM40,112H80v32H40Zm56,0H216v32H96ZM216,64V96H40V64ZM40,160H80v32H40Zm176,32H96V160H216v32Z" }))
+  ],
+  [
+    "thin",
+    /* @__PURE__ */ e.createElement(e.Fragment, null, /* @__PURE__ */ e.createElement("path", { d: "M224,52H32a4,4,0,0,0-4,4V192a12,12,0,0,0,12,12H216a12,12,0,0,0,12-12V56A4,4,0,0,0,224,52ZM36,108H84v40H36Zm56,0H220v40H92ZM220,60v40H36V60ZM36,192V156H84v40H40A4,4,0,0,1,36,192Zm180,4H92V156H220v36A4,4,0,0,1,216,196Z" }))
+  ]
+]), V = E((a, H) => /* @__PURE__ */ e.createElement(p, n(Z({ ref: H }, a), { weights: d })));
+V.displayName = "Table";
+const u = V;
+export {
+  u as default
+};

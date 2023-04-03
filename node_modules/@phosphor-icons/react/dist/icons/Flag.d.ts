@@ -1,0 +1,3 @@
+import { Icon } from "../lib";
+declare const Flag: Icon;
+export default Flag;

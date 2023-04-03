@@ -1,0 +1,3 @@
+import { Icon } from "../lib";
+declare const PawPrint: Icon;
+export default PawPrint;

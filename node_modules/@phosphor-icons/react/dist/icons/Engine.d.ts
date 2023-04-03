@@ -1,0 +1,3 @@
+import { Icon } from "../lib";
+declare const Engine: Icon;
+export default Engine;

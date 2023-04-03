@@ -1,0 +1,3 @@
+import { Icon } from "../lib";
+declare const Cylinder: Icon;
+export default Cylinder;

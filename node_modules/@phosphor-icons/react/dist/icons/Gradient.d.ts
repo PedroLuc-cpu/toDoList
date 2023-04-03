@@ -1,0 +1,3 @@
+import { Icon } from "../lib";
+declare const Gradient: Icon;
+export default Gradient;

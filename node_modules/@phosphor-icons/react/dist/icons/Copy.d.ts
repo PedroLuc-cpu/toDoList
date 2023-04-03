@@ -1,0 +1,3 @@
+import { Icon } from "../lib";
+declare const Copy: Icon;
+export default Copy;

@@ -1,0 +1,3 @@
+import { Icon } from "../lib";
+declare const BatteryWarning: Icon;
+export default BatteryWarning;

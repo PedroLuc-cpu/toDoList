@@ -1,0 +1,3 @@
+import { Icon } from "../lib";
+declare const BracketsRound: Icon;
+export default BracketsRound;

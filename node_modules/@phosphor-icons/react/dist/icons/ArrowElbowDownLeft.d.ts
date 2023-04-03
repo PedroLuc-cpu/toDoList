@@ -1,0 +1,3 @@
+import { Icon } from "../lib";
+declare const ArrowElbowDownLeft: Icon;
+export default ArrowElbowDownLeft;

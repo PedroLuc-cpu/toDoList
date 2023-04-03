@@ -1,0 +1,24 @@
+.Post{
+       max-width: 50%;
+       margin: 0 auto;
+       padding-top: 5rem;
+}
+
+.main footer{
+       display: flex;
+       justify-content: space-around;
+       max-width:50%;
+}
+
+.main>footer>strong:nth-child(1){
+       font-family: 'Inter', sans-serif;
+       color: var(--Blue);
+}
+.main>footer>strong:nth-child(2){
+       font-family: 'Inter', sans-serif;
+       color: var(--Purple);
+}
+
+.task{
+       max-width: 736px;
+}

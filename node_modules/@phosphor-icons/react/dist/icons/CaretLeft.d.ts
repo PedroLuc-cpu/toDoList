@@ -1,0 +1,3 @@
+import { Icon } from "../lib";
+declare const CaretLeft: Icon;
+export default CaretLeft;

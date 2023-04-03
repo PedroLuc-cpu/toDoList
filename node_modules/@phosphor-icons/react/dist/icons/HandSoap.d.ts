@@ -1,0 +1,3 @@
+import { Icon } from "../lib";
+declare const HandSoap: Icon;
+export default HandSoap;

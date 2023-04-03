@@ -1,0 +1,24 @@
+*{
+       margin: 0;
+       padding: 0;
+       box-sizing: border-box;
+}
+
+:root{
+       --gray-100: #F2F2F2;
+       --Gray-200: #D9D9D9;
+       --Gray-300: #808080;
+       --Gray-400: #333333;
+       --Gray-500: #262626;
+       --Gray-600: #1A1A1A;
+       --Gray-700: #0D0D0D;
+       --Purple:#8284FA;
+       --Purple-Dark:#5E60CE;
+       --Blue: #4EA8DE;
+       --Blue-Dark: #1E6F9F;
+       --Danger:#E25858;
+}
+
+body{
+       background: var(--Gray-600);
+}

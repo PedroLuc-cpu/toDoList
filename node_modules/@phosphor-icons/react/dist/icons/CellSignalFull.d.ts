@@ -1,0 +1,3 @@
+import { Icon } from "../lib";
+declare const CellSignalFull: Icon;
+export default CellSignalFull;

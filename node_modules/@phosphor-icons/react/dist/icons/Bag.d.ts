@@ -1,0 +1,3 @@
+import { Icon } from "../lib";
+declare const Bag: Icon;
+export default Bag;

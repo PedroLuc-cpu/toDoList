@@ -1,0 +1,3 @@
+import { Icon } from "../lib";
+declare const ChatCircleDots: Icon;
+export default ChatCircleDots;

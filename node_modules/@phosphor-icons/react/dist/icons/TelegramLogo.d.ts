@@ -1,0 +1,3 @@
+import { Icon } from "../lib";
+declare const TelegramLogo: Icon;
+export default TelegramLogo;

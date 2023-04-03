@@ -1,0 +1,3 @@
+import { Icon } from "../lib";
+declare const PencilSimpleLine: Icon;
+export default PencilSimpleLine;

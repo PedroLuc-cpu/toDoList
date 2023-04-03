@@ -1,0 +1,3 @@
+import { Icon } from "../lib";
+declare const SelectionPlus: Icon;
+export default SelectionPlus;

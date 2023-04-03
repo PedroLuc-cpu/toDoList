@@ -1,0 +1,3 @@
+import { Icon } from "../lib";
+declare const BellZ: Icon;
+export default BellZ;

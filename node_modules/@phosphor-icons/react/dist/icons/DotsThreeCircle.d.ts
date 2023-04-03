@@ -1,0 +1,3 @@
+import { Icon } from "../lib";
+declare const DotsThreeCircle: Icon;
+export default DotsThreeCircle;

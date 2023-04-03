@@ -1,0 +1,3 @@
+import { Icon } from "../lib";
+declare const SketchLogo: Icon;
+export default SketchLogo;

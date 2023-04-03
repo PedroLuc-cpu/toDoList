@@ -1,0 +1,3 @@
+import { Icon } from "../lib";
+declare const CoinVertical: Icon;
+export default CoinVertical;

@@ -1,0 +1,3 @@
+import { Icon } from "../lib";
+declare const Textbox: Icon;
+export default Textbox;

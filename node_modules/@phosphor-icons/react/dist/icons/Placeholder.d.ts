@@ -1,0 +1,3 @@
+import { Icon } from "../lib";
+declare const Placeholder: Icon;
+export default Placeholder;

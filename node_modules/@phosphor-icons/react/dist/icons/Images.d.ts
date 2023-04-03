@@ -1,0 +1,3 @@
+import { Icon } from "../lib";
+declare const Images: Icon;
+export default Images;

@@ -1,0 +1,3 @@
+import { Icon } from "../lib";
+declare const Sidebar: Icon;
+export default Sidebar;

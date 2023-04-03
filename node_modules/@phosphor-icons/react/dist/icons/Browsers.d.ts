@@ -1,0 +1,3 @@
+import { Icon } from "../lib";
+declare const Browsers: Icon;
+export default Browsers;

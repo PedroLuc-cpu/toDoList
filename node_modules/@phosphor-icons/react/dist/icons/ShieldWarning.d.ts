@@ -1,0 +1,3 @@
+import { Icon } from "../lib";
+declare const ShieldWarning: Icon;
+export default ShieldWarning;

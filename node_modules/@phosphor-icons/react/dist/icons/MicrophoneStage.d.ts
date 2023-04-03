@@ -1,0 +1,3 @@
+import { Icon } from "../lib";
+declare const MicrophoneStage: Icon;
+export default MicrophoneStage;

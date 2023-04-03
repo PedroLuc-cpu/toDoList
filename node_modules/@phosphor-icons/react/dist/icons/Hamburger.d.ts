@@ -1,0 +1,3 @@
+import { Icon } from "../lib";
+declare const Hamburger: Icon;
+export default Hamburger;

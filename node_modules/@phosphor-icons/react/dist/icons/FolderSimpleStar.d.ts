@@ -1,0 +1,3 @@
+import { Icon } from "../lib";
+declare const FolderSimpleStar: Icon;
+export default FolderSimpleStar;

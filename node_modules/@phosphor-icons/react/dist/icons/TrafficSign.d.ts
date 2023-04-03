@@ -1,0 +1,3 @@
+import { Icon } from "../lib";
+declare const TrafficSign: Icon;
+export default TrafficSign;

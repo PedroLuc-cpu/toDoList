@@ -1,0 +1,3 @@
+import { Icon } from "../lib";
+declare const BatteryVerticalLow: Icon;
+export default BatteryVerticalLow;

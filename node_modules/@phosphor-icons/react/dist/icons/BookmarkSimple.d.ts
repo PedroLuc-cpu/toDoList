@@ -1,0 +1,3 @@
+import { Icon } from "../lib";
+declare const BookmarkSimple: Icon;
+export default BookmarkSimple;

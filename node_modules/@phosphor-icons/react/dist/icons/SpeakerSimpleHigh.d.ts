@@ -1,0 +1,3 @@
+import { Icon } from "../lib";
+declare const SpeakerSimpleHigh: Icon;
+export default SpeakerSimpleHigh;

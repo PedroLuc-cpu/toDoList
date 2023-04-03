@@ -1,0 +1,3 @@
+import { Icon } from "../lib";
+declare const UserGear: Icon;
+export default UserGear;

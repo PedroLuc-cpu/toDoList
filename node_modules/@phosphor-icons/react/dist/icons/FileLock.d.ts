@@ -1,0 +1,3 @@
+import { Icon } from "../lib";
+declare const FileLock: Icon;
+export default FileLock;

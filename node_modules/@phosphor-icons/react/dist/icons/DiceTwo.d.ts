@@ -1,0 +1,3 @@
+import { Icon } from "../lib";
+declare const DiceTwo: Icon;
+export default DiceTwo;

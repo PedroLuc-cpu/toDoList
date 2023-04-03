@@ -1,0 +1,3 @@
+import { Icon } from "../lib";
+declare const Basketball: Icon;
+export default Basketball;

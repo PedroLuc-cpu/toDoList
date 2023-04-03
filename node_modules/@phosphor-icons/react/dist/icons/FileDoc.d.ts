@@ -1,0 +1,3 @@
+import { Icon } from "../lib";
+declare const FileDoc: Icon;
+export default FileDoc;

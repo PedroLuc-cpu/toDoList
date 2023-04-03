@@ -1,0 +1,3 @@
+import { Icon } from "../lib";
+declare const ArrowFatLinesLeft: Icon;
+export default ArrowFatLinesLeft;

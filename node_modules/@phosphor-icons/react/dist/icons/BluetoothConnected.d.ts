@@ -1,0 +1,3 @@
+import { Icon } from "../lib";
+declare const BluetoothConnected: Icon;
+export default BluetoothConnected;

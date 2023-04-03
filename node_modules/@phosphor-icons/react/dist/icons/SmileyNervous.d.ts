@@ -1,0 +1,3 @@
+import { Icon } from "../lib";
+declare const SmileyNervous: Icon;
+export default SmileyNervous;

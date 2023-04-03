@@ -1,0 +1,3 @@
+import { Icon } from "../lib";
+declare const MinusCircle: Icon;
+export default MinusCircle;

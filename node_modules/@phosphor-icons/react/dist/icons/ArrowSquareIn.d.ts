@@ -1,0 +1,3 @@
+import { Icon } from "../lib";
+declare const ArrowSquareIn: Icon;
+export default ArrowSquareIn;

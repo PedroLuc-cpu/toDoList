@@ -1,0 +1,3 @@
+import { Icon } from "../lib";
+declare const Archive: Icon;
+export default Archive;

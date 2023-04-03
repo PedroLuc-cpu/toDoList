@@ -1,0 +1,3 @@
+import { Icon } from "../lib";
+declare const SnapchatLogo: Icon;
+export default SnapchatLogo;

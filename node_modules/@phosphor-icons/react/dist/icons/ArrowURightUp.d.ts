@@ -1,0 +1,3 @@
+import { Icon } from "../lib";
+declare const ArrowURightUp: Icon;
+export default ArrowURightUp;

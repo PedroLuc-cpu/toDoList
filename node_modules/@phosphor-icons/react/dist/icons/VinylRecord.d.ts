@@ -1,0 +1,3 @@
+import { Icon } from "../lib";
+declare const VinylRecord: Icon;
+export default VinylRecord;

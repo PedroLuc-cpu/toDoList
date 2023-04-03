@@ -1,0 +1,3 @@
+import { Icon } from "../lib";
+declare const ChartLine: Icon;
+export default ChartLine;

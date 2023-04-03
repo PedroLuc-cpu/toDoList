@@ -1,0 +1,3 @@
+import { Icon } from "../lib";
+declare const ChartBarHorizontal: Icon;
+export default ChartBarHorizontal;

@@ -1,0 +1,3 @@
+import { Icon } from "../lib";
+declare const NumberSquareThree: Icon;
+export default NumberSquareThree;

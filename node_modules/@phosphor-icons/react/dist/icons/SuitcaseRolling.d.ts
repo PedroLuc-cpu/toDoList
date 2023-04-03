@@ -1,0 +1,3 @@
+import { Icon } from "../lib";
+declare const SuitcaseRolling: Icon;
+export default SuitcaseRolling;

@@ -1,0 +1,3 @@
+import { Icon } from "../lib";
+declare const NumberSquareOne: Icon;
+export default NumberSquareOne;

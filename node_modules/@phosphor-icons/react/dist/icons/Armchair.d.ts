@@ -1,0 +1,3 @@
+import { Icon } from "../lib";
+declare const Armchair: Icon;
+export default Armchair;

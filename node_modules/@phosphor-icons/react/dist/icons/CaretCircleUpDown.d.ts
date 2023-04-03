@@ -1,0 +1,3 @@
+import { Icon } from "../lib";
+declare const CaretCircleUpDown: Icon;
+export default CaretCircleUpDown;

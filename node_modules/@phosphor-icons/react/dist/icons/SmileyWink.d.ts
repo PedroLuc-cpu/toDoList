@@ -1,0 +1,3 @@
+import { Icon } from "../lib";
+declare const SmileyWink: Icon;
+export default SmileyWink;

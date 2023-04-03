@@ -1,0 +1,3 @@
+import { Icon } from "../lib";
+declare const CurrencyEth: Icon;
+export default CurrencyEth;

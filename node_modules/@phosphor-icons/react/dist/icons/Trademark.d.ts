@@ -1,0 +1,3 @@
+import { Icon } from "../lib";
+declare const Trademark: Icon;
+export default Trademark;

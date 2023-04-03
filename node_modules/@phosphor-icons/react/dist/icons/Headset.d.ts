@@ -1,0 +1,3 @@
+import { Icon } from "../lib";
+declare const Headset: Icon;
+export default Headset;

@@ -1,0 +1,3 @@
+import { Icon } from "../lib";
+declare const UserSquare: Icon;
+export default UserSquare;

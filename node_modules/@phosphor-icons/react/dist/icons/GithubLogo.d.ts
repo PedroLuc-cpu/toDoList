@@ -1,0 +1,3 @@
+import { Icon } from "../lib";
+declare const GithubLogo: Icon;
+export default GithubLogo;

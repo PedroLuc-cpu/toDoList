@@ -1,0 +1,3 @@
+import { Icon } from "../lib";
+declare const ListBullets: Icon;
+export default ListBullets;

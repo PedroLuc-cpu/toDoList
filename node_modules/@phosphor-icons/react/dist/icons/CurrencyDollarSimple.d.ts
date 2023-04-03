@@ -1,0 +1,3 @@
+import { Icon } from "../lib";
+declare const CurrencyDollarSimple: Icon;
+export default CurrencyDollarSimple;

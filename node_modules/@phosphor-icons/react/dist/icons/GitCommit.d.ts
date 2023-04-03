@@ -1,0 +1,3 @@
+import { Icon } from "../lib";
+declare const GitCommit: Icon;
+export default GitCommit;

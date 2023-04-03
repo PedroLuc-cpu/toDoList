@@ -1,0 +1,3 @@
+import { Icon } from "../lib";
+declare const SmileyAngry: Icon;
+export default SmileyAngry;

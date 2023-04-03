@@ -1,0 +1,3 @@
+import { Icon } from "../lib";
+declare const PenNibStraight: Icon;
+export default PenNibStraight;

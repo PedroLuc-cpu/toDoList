@@ -1,0 +1,3 @@
+import { Icon } from "../lib";
+declare const Flower: Icon;
+export default Flower;

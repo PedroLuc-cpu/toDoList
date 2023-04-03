@@ -1,0 +1,3 @@
+import { Icon } from "../lib";
+declare const TextOutdent: Icon;
+export default TextOutdent;

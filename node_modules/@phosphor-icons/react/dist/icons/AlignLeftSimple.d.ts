@@ -1,0 +1,3 @@
+import { Icon } from "../lib";
+declare const AlignLeftSimple: Icon;
+export default AlignLeftSimple;

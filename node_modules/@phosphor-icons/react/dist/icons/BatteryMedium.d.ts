@@ -1,0 +1,3 @@
+import { Icon } from "../lib";
+declare const BatteryMedium: Icon;
+export default BatteryMedium;

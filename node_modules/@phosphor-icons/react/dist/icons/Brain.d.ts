@@ -1,0 +1,3 @@
+import { Icon } from "../lib";
+declare const Brain: Icon;
+export default Brain;

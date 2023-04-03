@@ -1,0 +1,3 @@
+import { Icon } from "../lib";
+declare const StackSimple: Icon;
+export default StackSimple;

@@ -1,0 +1,3 @@
+import { Icon } from "../lib";
+declare const Sparkle: Icon;
+export default Sparkle;

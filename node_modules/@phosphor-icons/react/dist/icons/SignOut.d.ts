@@ -1,0 +1,3 @@
+import { Icon } from "../lib";
+declare const SignOut: Icon;
+export default SignOut;

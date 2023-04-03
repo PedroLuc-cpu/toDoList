@@ -1,0 +1,3 @@
+import { Icon } from "../lib";
+declare const GitBranch: Icon;
+export default GitBranch;

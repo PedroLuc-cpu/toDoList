@@ -1,0 +1,3 @@
+import { Icon } from "../lib";
+declare const Needle: Icon;
+export default Needle;

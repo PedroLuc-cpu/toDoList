@@ -1,0 +1,3 @@
+import { Icon } from "../lib";
+declare const CloudX: Icon;
+export default CloudX;

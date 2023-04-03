@@ -1,0 +1,3 @@
+import { Icon } from "../lib";
+declare const Church: Icon;
+export default Church;

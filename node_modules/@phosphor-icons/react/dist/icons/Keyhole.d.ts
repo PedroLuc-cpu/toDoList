@@ -1,0 +1,3 @@
+import { Icon } from "../lib";
+declare const Keyhole: Icon;
+export default Keyhole;

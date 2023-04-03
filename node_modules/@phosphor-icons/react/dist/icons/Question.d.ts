@@ -1,0 +1,3 @@
+import { Icon } from "../lib";
+declare const Question: Icon;
+export default Question;

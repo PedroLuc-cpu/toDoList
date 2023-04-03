@@ -1,0 +1,3 @@
+import { Icon } from "../lib";
+declare const Clock: Icon;
+export default Clock;

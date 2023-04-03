@@ -1,0 +1,3 @@
+import { Icon } from "../lib";
+declare const Fan: Icon;
+export default Fan;

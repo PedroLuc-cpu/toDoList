@@ -1,0 +1,3 @@
+import { Icon } from "../lib";
+declare const Star: Icon;
+export default Star;

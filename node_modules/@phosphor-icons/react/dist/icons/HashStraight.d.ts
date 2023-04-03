@@ -1,0 +1,3 @@
+import { Icon } from "../lib";
+declare const HashStraight: Icon;
+export default HashStraight;

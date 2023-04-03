@@ -1,0 +1,3 @@
+import { Icon } from "../lib";
+declare const User: Icon;
+export default User;

@@ -1,0 +1,3 @@
+import { Icon } from "../lib";
+declare const GasCan: Icon;
+export default GasCan;

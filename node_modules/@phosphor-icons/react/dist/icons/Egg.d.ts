@@ -1,0 +1,3 @@
+import { Icon } from "../lib";
+declare const Egg: Icon;
+export default Egg;

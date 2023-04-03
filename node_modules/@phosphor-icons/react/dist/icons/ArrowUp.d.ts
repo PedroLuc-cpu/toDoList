@@ -1,0 +1,3 @@
+import { Icon } from "../lib";
+declare const ArrowUp: Icon;
+export default ArrowUp;

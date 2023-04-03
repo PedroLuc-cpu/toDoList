@@ -1,0 +1,3 @@
+import { Icon } from "../lib";
+declare const FilmSlate: Icon;
+export default FilmSlate;

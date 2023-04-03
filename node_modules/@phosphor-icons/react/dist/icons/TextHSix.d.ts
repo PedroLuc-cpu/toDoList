@@ -1,0 +1,3 @@
+import { Icon } from "../lib";
+declare const TextHSix: Icon;
+export default TextHSix;

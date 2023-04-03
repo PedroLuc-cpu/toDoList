@@ -1,0 +1,3 @@
+import { Icon } from "../lib";
+declare const ChatTeardrop: Icon;
+export default ChatTeardrop;

@@ -1,0 +1,3 @@
+import { Icon } from "../lib";
+declare const FilePlus: Icon;
+export default FilePlus;

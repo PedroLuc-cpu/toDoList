@@ -1,0 +1,3 @@
+import { Icon } from "../lib";
+declare const Stethoscope: Icon;
+export default Stethoscope;

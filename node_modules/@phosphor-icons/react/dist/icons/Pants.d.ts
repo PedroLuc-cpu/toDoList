@@ -1,0 +1,3 @@
+import { Icon } from "../lib";
+declare const Pants: Icon;
+export default Pants;

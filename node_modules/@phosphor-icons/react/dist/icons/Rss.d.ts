@@ -1,0 +1,3 @@
+import { Icon } from "../lib";
+declare const Rss: Icon;
+export default Rss;

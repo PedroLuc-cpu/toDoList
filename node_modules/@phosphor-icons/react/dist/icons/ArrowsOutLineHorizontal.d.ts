@@ -1,0 +1,3 @@
+import { Icon } from "../lib";
+declare const ArrowsOutLineHorizontal: Icon;
+export default ArrowsOutLineHorizontal;

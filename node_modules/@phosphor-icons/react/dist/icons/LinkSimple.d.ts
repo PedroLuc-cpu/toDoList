@@ -1,0 +1,3 @@
+import { Icon } from "../lib";
+declare const LinkSimple: Icon;
+export default LinkSimple;

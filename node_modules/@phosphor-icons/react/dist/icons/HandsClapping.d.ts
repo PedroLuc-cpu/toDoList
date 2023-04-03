@@ -1,0 +1,3 @@
+import { Icon } from "../lib";
+declare const HandsClapping: Icon;
+export default HandsClapping;

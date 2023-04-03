@@ -1,0 +1,3 @@
+import { Icon } from "../lib";
+declare const HourglassHigh: Icon;
+export default HourglassHigh;

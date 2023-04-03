@@ -1,0 +1,3 @@
+import { Icon } from "../lib";
+declare const PersonSimple: Icon;
+export default PersonSimple;

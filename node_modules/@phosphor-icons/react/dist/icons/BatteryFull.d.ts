@@ -1,0 +1,3 @@
+import { Icon } from "../lib";
+declare const BatteryFull: Icon;
+export default BatteryFull;

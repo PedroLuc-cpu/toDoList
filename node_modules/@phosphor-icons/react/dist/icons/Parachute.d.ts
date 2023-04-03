@@ -1,0 +1,3 @@
+import { Icon } from "../lib";
+declare const Parachute: Icon;
+export default Parachute;

@@ -1,0 +1,3 @@
+import { Icon } from "../lib";
+declare const ChargingStation: Icon;
+export default ChargingStation;

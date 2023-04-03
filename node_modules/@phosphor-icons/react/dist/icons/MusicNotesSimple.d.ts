@@ -1,0 +1,3 @@
+import { Icon } from "../lib";
+declare const MusicNotesSimple: Icon;
+export default MusicNotesSimple;

@@ -1,0 +1,3 @@
+import { Icon } from "../lib";
+declare const HouseLine: Icon;
+export default HouseLine;

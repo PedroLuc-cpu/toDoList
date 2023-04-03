@@ -1,0 +1,3 @@
+import { Icon } from "../lib";
+declare const Infinity: Icon;
+export default Infinity;

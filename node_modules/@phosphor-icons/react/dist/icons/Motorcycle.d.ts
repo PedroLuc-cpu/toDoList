@@ -1,0 +1,3 @@
+import { Icon } from "../lib";
+declare const Motorcycle: Icon;
+export default Motorcycle;

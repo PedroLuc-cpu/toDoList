@@ -1,0 +1,3 @@
+import { Icon } from "../lib";
+declare const Megaphone: Icon;
+export default Megaphone;

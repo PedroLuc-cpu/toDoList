@@ -1,0 +1,3 @@
+import { Icon } from "../lib";
+declare const SealQuestion: Icon;
+export default SealQuestion;

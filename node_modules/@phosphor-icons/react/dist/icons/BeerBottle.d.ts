@@ -1,0 +1,3 @@
+import { Icon } from "../lib";
+declare const BeerBottle: Icon;
+export default BeerBottle;

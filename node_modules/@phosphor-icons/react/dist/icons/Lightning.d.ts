@@ -1,0 +1,3 @@
+import { Icon } from "../lib";
+declare const Lightning: Icon;
+export default Lightning;

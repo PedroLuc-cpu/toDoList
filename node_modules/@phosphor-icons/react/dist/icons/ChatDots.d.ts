@@ -1,0 +1,3 @@
+import { Icon } from "../lib";
+declare const ChatDots: Icon;
+export default ChatDots;

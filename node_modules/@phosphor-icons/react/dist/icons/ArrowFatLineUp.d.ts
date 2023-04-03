@@ -1,0 +1,3 @@
+import { Icon } from "../lib";
+declare const ArrowFatLineUp: Icon;
+export default ArrowFatLineUp;

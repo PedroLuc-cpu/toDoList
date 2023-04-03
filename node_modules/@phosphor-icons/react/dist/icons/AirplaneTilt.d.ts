@@ -1,0 +1,3 @@
+import { Icon } from "../lib";
+declare const AirplaneTilt: Icon;
+export default AirplaneTilt;

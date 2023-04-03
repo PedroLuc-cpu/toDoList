@@ -1,0 +1,3 @@
+import { Icon } from "../lib";
+declare const FileX: Icon;
+export default FileX;

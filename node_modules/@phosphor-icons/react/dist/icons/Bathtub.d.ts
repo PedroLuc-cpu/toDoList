@@ -1,0 +1,3 @@
+import { Icon } from "../lib";
+declare const Bathtub: Icon;
+export default Bathtub;

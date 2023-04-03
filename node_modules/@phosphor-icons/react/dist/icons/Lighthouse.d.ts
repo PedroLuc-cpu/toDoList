@@ -1,0 +1,3 @@
+import { Icon } from "../lib";
+declare const Lighthouse: Icon;
+export default Lighthouse;

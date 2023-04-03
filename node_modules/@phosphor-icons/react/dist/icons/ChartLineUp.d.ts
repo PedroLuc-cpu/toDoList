@@ -1,0 +1,3 @@
+import { Icon } from "../lib";
+declare const ChartLineUp: Icon;
+export default ChartLineUp;

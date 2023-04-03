@@ -1,0 +1,3 @@
+import { Icon } from "../lib";
+declare const ReadCvLogo: Icon;
+export default ReadCvLogo;

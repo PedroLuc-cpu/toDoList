@@ -1,0 +1,13 @@
+.header{
+       display: flex;
+       justify-content: center;
+       /* position: absolute; */
+       width: 100%;
+       /* right: 0px;
+       left: 0px;
+       top: 0px; */
+}
+
+.logo{
+       margin: 4.5rem 0 3.3rem 0;
+}

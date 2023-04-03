@@ -1,0 +1,3 @@
+import { Icon } from "../lib";
+declare const PlusMinus: Icon;
+export default PlusMinus;

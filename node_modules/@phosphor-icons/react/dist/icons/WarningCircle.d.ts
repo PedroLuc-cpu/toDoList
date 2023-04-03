@@ -1,0 +1,3 @@
+import { Icon } from "../lib";
+declare const WarningCircle: Icon;
+export default WarningCircle;

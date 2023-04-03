@@ -1,0 +1,48 @@
+.form{
+       display: flex;
+       align-items: center;
+       gap: .5rem;
+       justify-content: center;
+}
+
+.form textarea{
+       width: 736px;
+       background: var(--Gray-500);
+       outline: 0 solid transparent;
+       resize: none;
+       border-radius: 8px;
+       color: var(--gray-100);
+       padding: 0.8rem 0 0.8rem 0;
+       outline: 1px solid var(--gray-700);
+       border: 0;
+       font-family: 'Inter', sans-serif;
+       font-size: 1rem;
+}
+
+.form textarea::placeholder{
+       font-family:Arial, Helvetica, sans-serif;
+       color: var(--gray-300);
+       font-family: 'Inter', sans-serif;
+       font-size: 1rem;
+}
+
+
+.form button[type="submit"]{
+        display: flex;
+        align-items: center;
+        gap: 8px;
+        padding: 1.2rem 2.5rem;
+        border-radius: 8px;
+        color: var(--gray-100);
+        background: var(--Blue-Dark);
+        font-family: 'Inter', sans-serif;
+        font-size: 1rem;
+        font-weight: bold;
+        cursor: pointer;
+        border: 0;
+        transition: background .1s linear;
+}
+
+.form button[type="submit"]:hover{
+       background: var(--Blue);
+}

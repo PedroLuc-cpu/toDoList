@@ -1,0 +1,3 @@
+import { Icon } from "../lib";
+declare const IntersectThree: Icon;
+export default IntersectThree;

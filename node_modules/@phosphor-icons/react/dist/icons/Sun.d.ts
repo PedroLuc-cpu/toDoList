@@ -1,0 +1,3 @@
+import { Icon } from "../lib";
+declare const Sun: Icon;
+export default Sun;

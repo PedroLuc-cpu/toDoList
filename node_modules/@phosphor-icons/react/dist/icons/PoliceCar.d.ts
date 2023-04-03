@@ -1,0 +1,3 @@
+import { Icon } from "../lib";
+declare const PoliceCar: Icon;
+export default PoliceCar;

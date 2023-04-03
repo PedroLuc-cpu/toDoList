@@ -1,0 +1,3 @@
+import { Icon } from "../lib";
+declare const Seal: Icon;
+export default Seal;

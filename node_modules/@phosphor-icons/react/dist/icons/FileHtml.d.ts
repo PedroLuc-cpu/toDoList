@@ -1,0 +1,3 @@
+import { Icon } from "../lib";
+declare const FileHtml: Icon;
+export default FileHtml;

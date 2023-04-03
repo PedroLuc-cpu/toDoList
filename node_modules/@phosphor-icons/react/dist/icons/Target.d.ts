@@ -1,0 +1,3 @@
+import { Icon } from "../lib";
+declare const Target: Icon;
+export default Target;

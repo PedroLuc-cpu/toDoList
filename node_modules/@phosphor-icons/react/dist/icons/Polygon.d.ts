@@ -1,0 +1,3 @@
+import { Icon } from "../lib";
+declare const Polygon: Icon;
+export default Polygon;
