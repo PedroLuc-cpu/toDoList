@@ -1,3 +1,23 @@
+*{
+       font-family: 'Inter', sans-serif;
+
+}
+
+footer{ 
+       padding-top: 2rem;
+       display: flex;
+       justify-content: space-evenly;
+       margin-bottom: 3rem;
+}
+
+
+footer>strong:nth-child(1){
+       color: var(--Blue);
+}
+footer>strong:nth-child(2){
+       color: var(--Purple);
+}
+
 .form{
        display: flex;
        align-items: center;
@@ -15,7 +35,6 @@
        padding: 0.8rem 0 0.8rem 0;
        outline: 1px solid var(--gray-700);
        border: 0;
-       font-family: 'Inter', sans-serif;
        font-size: 1rem;
 }
 
@@ -35,7 +54,6 @@
         border-radius: 8px;
         color: var(--gray-100);
         background: var(--Blue-Dark);
-        font-family: 'Inter', sans-serif;
         font-size: 1rem;
         font-weight: bold;
         cursor: pointer;
