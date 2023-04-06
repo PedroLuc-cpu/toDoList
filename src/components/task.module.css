@@ -34,6 +34,7 @@
        display: flex;
        gap: 1rem;
        justify-content: space-between;
+       margin-bottom: 1rem;
 }
 .checkList p{
        color: var(--gray-100);
@@ -46,3 +47,15 @@
        cursor: pointer;
 }
 
+.inforLista{
+       display: flex;
+       align-items:center;
+       gap: 8px;
+}
+
+
+
+.inforLista input[type="checkbox"]:checked + p{
+         text-decoration: line-through;
+
+}

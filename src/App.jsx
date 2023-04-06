@@ -5,6 +5,7 @@ function App() {
       {
         id: 1,
         tasklist: "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+        completed: true,
       },
     ];
 
@@ -12,11 +13,7 @@ function App() {
   return (
     <div>
       <Header />
-      {
-        task.map(myTasks =>{
-          return <PostTask key={myTasks.id} Tasklist={myTasks.tasklist} />;
-        })
-      }
+      <PostTask/>
     </div>
   );
 }

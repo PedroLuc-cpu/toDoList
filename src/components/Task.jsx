@@ -1,28 +1,23 @@
-import { useState } from "react";
 import Style from "./task.module.css";
 import { ClipboardText, Trash } from "@phosphor-icons/react";
 
-export default function Task() {
-
+export default function Task({id, title, isCompleted, handleIsCompleted }) {
   return (
     <main>
       <section className={Style.task}>
-        <div className={Style.checkList}>
-          <input type="checkbox" />
-          <p></p>
+        <ul className={Style.checkList}>
+          <li key={id} className={Style.inforLista}>
+            <input onClick={handleIsCompleted} type="checkbox" />
+            <p className={isCompleted ? Style.checked : ""}>{title}</p>
+          </li>
           <button>
             <Trash size={32} color="#808080" weight="light" />
           </button>
-        </div>
-
-        {/* <div className={Style.taskEmpty}>
-               <ClipboardText size={100} color="#333333" weight="light" />
-               <p>
-                 <strong>Você ainda não tem tarefas cadastradas</strong> Crie
-                 tarefas e organize seus itens a fazer.
-               </p>
-             </div> */}
-      </section>
+        </ul>
+      </section>{" "}
     </main>
   );
 }
+
+
+

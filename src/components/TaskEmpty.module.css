@@ -1,0 +1,21 @@
+*{
+              font-family: 'Inter', sans-serif;
+}
+
+.taskEmpty{
+       margin-top: 2rem;
+       display: grid;
+       justify-content: center;
+}
+
+.taskEmpty>svg{
+       margin: 0 auto;
+}
+
+.taskEmpty p{
+       display: flex;
+       flex-direction: column;
+       color: var(--Gray-300);
+       font-size: 1rem;
+       text-align: center;
+}
