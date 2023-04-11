@@ -18,6 +18,13 @@ footer>strong:nth-child(2){
        color: var(--Purple);
 }
 
+footer>strong>span{
+       background-color: var(--Gray-400);
+       color: var(--Gray-200);
+       padding: .2rem 1rem;
+       border-radius: 1rem;
+}
+
 .form{
        display: flex;
        align-items: center;
@@ -33,14 +40,14 @@ footer>strong:nth-child(2){
        border-radius: 8px;
        color: var(--gray-100);
        padding: 0.8rem 0 0.8rem 0;
-       outline: 1px solid var(--gray-700);
+       outline: 1px solid var(--Gray-700);
        border: 0;
        font-size: 1rem;
 }
 
 .form textarea::placeholder{
        font-family:Arial, Helvetica, sans-serif;
-       color: var(--gray-300);
+       color: var(--Gray-300);
        font-family: 'Inter', sans-serif;
        font-size: 1rem;
 }
