@@ -10,3 +10,7 @@ PostTask é um componente de função que usa o hook useState do React para gere
 
 LidarComNovaTarefaChange é uma função que lida com a mudança do campo de texto da nova tarefa. Quando o valor do campo de texto muda, a função define o novo valor para novaTarefaTexto.
 
+div align="center"
+img src="https://user-images.githubusercontent.com/85002280/233797234-e0cab443-e650-4fc5-81c2-bde9fb4ce2ec.png" width="0px" /
+/div
+
